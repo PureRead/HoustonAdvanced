@@ -3,6 +3,7 @@ import streamlit as st
 import random  
   
 st.title("Hello there this is the new title on my app")  
+st.title("Hello there this is the new title on my app 2")  
 
 # Main title of the page  
 st.title("Lesson 2: IF Statements and Operators 📘")  
